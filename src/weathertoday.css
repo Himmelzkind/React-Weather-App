@@ -1,0 +1,33 @@
+.weatherToday .weatherToday {
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#icon-main {
+  display: block;
+  margin: 0 auto;
+}
+
+#currentTemp,
+.units {
+  font-size: 34px;
+}
+
+#humidity-wind {
+  font-size: 12px;
+}
+
+#celsius-link {
+  font-weight: 900;
+  text-decoration: none;
+  color: white;
+}
+#fahrenheit-link {
+  font-size: 17px;
+  font-weight: 300px;
+  margin-left: -3px;
+  padding: -6px;
+  color: rgb(207, 196, 255);
+  text-decoration: none;
+}

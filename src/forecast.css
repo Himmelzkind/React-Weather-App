@@ -1,0 +1,14 @@
+.Forecast .forecast_bottom {
+  background-color: #1d1f20;
+  border-radius: 0px 0px 20px 20px;
+  box-shadow: 2px 3px 3px rgba(128, 128, 128, 0.301),
+    -2px 0px 3px rgba(128, 128, 128, 0.301);
+  margin: 0 auto 10px auto;
+  padding: 10px 25px 20px 25px;
+  border: 1px solid rgba(0, 0, 0, 0);
+  max-width: 500px;
+}
+
+.Forecast .forecast-icon {
+  width: 100%;
+}
