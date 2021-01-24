@@ -7,7 +7,7 @@ export default function Footer() {
       <small>
         <a
           id="osc"
-          href="https://github.com/Himmelzkind/myown_weatherApp.git"
+          href="https://github.com/Himmelzkind/React-Weather-App.git"
           target="_blank"
         >
           Open Source Code
