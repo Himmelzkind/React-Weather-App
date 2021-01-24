@@ -18,13 +18,9 @@ export default function WeatherToday() {
       />
       <strong id="currentTemp">{weatherData.temperature}</strong>
       <span className="units">
-        <a href="" id="celsius-link" className="active">
-          °C
-        </a>
+        <button className="celsius-link" href="/">°C</button>
+        <button className="fahrenheit-link" href="#">°F</button>
 
-        <a href="" id="fahrenheit-link">
-          °F
-        </a>
       </span>
       <p id="humidity_wind">
         {weatherData.humidity} | {weatherData.windspeed}
