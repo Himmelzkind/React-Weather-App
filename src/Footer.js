@@ -8,6 +8,7 @@ export default function Footer() {
         <a
           id="osc"
           href="https://github.com/Himmelzkind/React-Weather-App.git"
+          rel="noreferrer"
           target="_blank"
         >
           Open Source Code
