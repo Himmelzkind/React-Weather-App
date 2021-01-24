@@ -18,11 +18,11 @@ export default function WeatherToday() {
       />
       <strong id="currentTemp">{weatherData.temperature}</strong>
       <span className="units">
-        <a href="#" id="celsius-link" className="active">
+        <a href="" id="celsius-link" className="active">
           °C
         </a>
 
-        <a href="#" id="fahrenheit-link">
+        <a href="" id="fahrenheit-link">
           °F
         </a>
       </span>
